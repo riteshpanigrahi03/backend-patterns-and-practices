@@ -23,6 +23,7 @@
     </properties>
 
     <modules>
+        <module>idempotency-pattern</module>
         <module>outbox-pattern</module>
     </modules>
 </project>
