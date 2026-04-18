@@ -25,5 +25,6 @@
     <modules>
         <module>idempotency-pattern</module>
         <module>outbox-pattern</module>
+        <module>retry-topic-dlq-pattern</module>
     </modules>
 </project>
